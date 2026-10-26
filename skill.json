@@ -1,0 +1,15 @@
+{
+  "name": "glance-screen-zero-ambient-intent-scorer-skill",
+  "version": "1.0.0",
+  "description": "Glance Screen Zero Ambient Intent Scorer - Evaluates lock-screen micro-moments and gaze attention to predict impulse shopping propensity with zero user friction.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "glance",
+    "screen-zero",
+    "ambient-commerce",
+    "intent-scoring",
+    "mcp"
+  ]
+}
